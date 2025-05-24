@@ -22,8 +22,7 @@ Each demo explores a different gamification technique, from point systems and ac
 ## 📊 Slides
 
 Slides from the session will be available here after the talk:  
-🔗 [**View the Slides**](#)  
-*(Link will be updated post-event)*
+🔗 [**View the Slides**](#) 
 
 ## 🛠️ Tech Stack
 
