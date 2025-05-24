@@ -22,7 +22,7 @@ Each demo explores a different gamification technique, from point systems and ac
 ## 📊 Slides
 
 Slides from the session will be available here after the talk:  
-🔗 [**View the Slides**](#) 
+🔗 [**View the Slides**](https://github.com/cyatteau/techorama-2025-ai-gamification-sports/blob/main/Final-Slides.pdf) 
 
 ## 🛠️ Tech Stack
 
